@@ -1,4 +1,3 @@
-Advanced Software engineering Course
 Users can view all school information 
 Users can for a particular school to gather that school information such as address, contact number, school capacity, authority, gender etc 
 users can view all schools 
@@ -12,6 +11,3 @@ administrator will be able to modiify new schools
 administrator will be able to delete new schools 
 administrator will be able to update school information
 
-Building a database with school information. 
-Examiing the google maps app to determine if all schools are on the map. 
-Trying to get the android app to work.
